@@ -18,7 +18,7 @@
     "commander": "^2.14.1",
     "consolidate": "^0.15.0",
     "download-git-repo": "^1.0.2",
-    "handlebars": "^4.0.11",
+    "handlebars": "^4.5.3",
     "inquirer": "^5.1.0",
     "metalsmith": "^2.3.0",
     "minimatch": "^3.0.4",
